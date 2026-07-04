@@ -1,5 +1,5 @@
---- al_init_eth_kr.c	2024-08-31 06:56:34.003242100 -0400
-+++ al_init_eth_kr.fixed.c	2024-08-31 11:01:54.923840300 -0400
+--- a/drivers/net/ethernet/al/al_init_eth_kr.c
++++ b/drivers/net/ethernet/al/al_init_eth_kr.c
 @@ -394,11 +394,11 @@
  {
  	switch (coef) {

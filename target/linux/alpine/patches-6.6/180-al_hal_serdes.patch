@@ -1,5 +1,5 @@
---- al_hal_serdes.c	2024-06-15 06:06:26.144172400 -0400
-+++ al_hal_serdes.fixed.c	2024-06-15 13:44:13.301783700 -0400
+--- a/arch/arm/mach-alpine/al_hal_serdes.c
++++ b/arch/arm/mach-alpine/al_hal_serdes.c
 @@ -1001,7 +1001,7 @@
  {
  	al_serdes_grp_reg_masked_write(
